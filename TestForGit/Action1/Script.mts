@@ -4,7 +4,7 @@ WpfWindow("Micro Focus MyFlight Sample").WpfButton("OK").Click @@ hightlight id_
  @@ hightlight id_;_1048680_;_script infofile_;_ZIP::ssf5.xml_;_
 WpfWindow("Micro Focus MyFlight Sample_2").WpfImage("WpfImage").Click 3,6 @@ hightlight id_;_1924734432_;_script infofile_;_ZIP::ssf6.xml_;_
 WpfWindow("Micro Focus MyFlight Sample_2").WpfComboBox("toCity").Select "London" @@ hightlight id_;_1937408768_;_script infofile_;_ZIP::ssf11.xml_;_
-WpfWindow("Micro Focus MyFlight Sample_2").WpfComboBox("Class").Select "Business" @@ hightlight id_;_1937410592_;_script infofile_;_ZIP::ssf13.xml_;_
+WpfWindow("Micro Focus MyFlight Sample_2").WpfComboBox("Class").Select "First" @@ hightlight id_;_1937410592_;_script infofile_;_ZIP::ssf13.xml_;_
 WpfWindow("Micro Focus MyFlight Sample_2").WpfButton("FIND FLIGHTS").Click @@ hightlight id_;_1937411072_;_script infofile_;_ZIP::ssf14.xml_;_
  @@ hightlight id_;_68116_;_script infofile_;_ZIP::ssf15.xml_;_
 WpfWindow("Micro Focus MyFlight Sample_2").WpfComboBox("toCity").Select "Frankfurt" @@ hightlight id_;_1937408768_;_script infofile_;_ZIP::ssf17.xml_;_
